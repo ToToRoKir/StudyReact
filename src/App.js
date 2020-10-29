@@ -1,9 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar.jsx';
-import Header from './components/Header';
-import Profile from './components/Profile';
+import Navbar from './components/Navbar/Navbar.jsx';
+import Header from './components/Header/Header.jsx';
+import Profile from './components/Profile/Profile.jsx';
 
 /*
 function App() {

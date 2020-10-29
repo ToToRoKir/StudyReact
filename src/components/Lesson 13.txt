@@ -1,9 +1,0 @@
-.header-grid{
-    grid-area: h-grid;
-    background-color: green;
-  }
-  
-  .header-grid img{
-    width: 80px;
-  }
-  

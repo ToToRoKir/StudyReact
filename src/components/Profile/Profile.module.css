@@ -1,4 +1,8 @@
-.main-content-grid{
+.mainContentGrid{
   grid-area: mc-grid;
   background-color: grey;
+}
+
+.item {
+  color: greenyellow
 }

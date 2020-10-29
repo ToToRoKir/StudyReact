@@ -1,9 +1,11 @@
-.header-grid{
+.headerGrid{
     grid-area: h-grid;
     background-color: green;
   }
   
-  .header-grid img{
+  .headerGrid img{
     width: 80px;
   }
   
+
+   
